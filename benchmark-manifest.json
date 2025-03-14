@@ -1,0 +1,908 @@
+[
+    {
+        "audio_filepath": "audios/au11.wav",
+        "duration": 0.8699546485260771,
+        "text": "",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au12.wav",
+        "duration": 3.7905442176870747,
+        "text": "Min kunkͻrͻtalen don n’a ka san ba caman tariki n’a bɛnbaw ye",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au13.wav",
+        "duration": 1.1185260770975056,
+        "text": "",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au14.wav",
+        "duration": 3.7594784580498866,
+        "text": "N’a y’a bɛnbaw ka masabajamanaw ni masajamanaw ciyɛn ta",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au15.wav",
+        "duration": 1.0253061224489797,
+        "text": "",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au16.wav",
+        "duration": 4.660498866213152,
+        "text": "masabajamana ni masajamana minnu sigira danbe ni yɛrɛdͻn kɔnɔ,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au17.wav",
+        "duration": 0.8078231292517006,
+        "text": "",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au18.wav",
+        "duration": 2.6720181405895693,
+        "text": "bi ni sini mͻgͻw ka kan k’u sinsin minnu kan",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au20.wav",
+        "duration": 2.1748979591836735,
+        "text": "Ka hakili to mɔgɔw ka hakililaw la",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au22.wav",
+        "duration": 2.23702947845805,
+        "text": "minnu y’u ni di jͻnyajuru tigɛli kɛlɛ la",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au24.wav",
+        "duration": 3.0137868480725625,
+        "text": "ka hakili to fana yɛrɛmahɔrɔya tabagaw ka hakililaw la",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au26.wav",
+        "duration": 3.3555555555555556,
+        "text": "ani mɔgɔ minnu sara danbejɔkɛnɛ kan ka faso lakana",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au27.wav",
+        "duration": 5.406190476190476,
+        "text": ", ka hakɛw ni tɔn caman jɛmufanga ani mara kɛcogo ɲuman makaran jamana kɔnɔ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au28.wav",
+        "duration": 4.4740816326530615,
+        "text": "",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au29.wav",
+        "duration": 6.213990929705216,
+        "text": "Ka tali kɛ gɛlɛya suguya caman kan minnu bɛ ka jamana ni fasodenw degun tuma bɛɛ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au30.wav",
+        "duration": 3.821609977324263,
+        "text": "K’a jateminɛ ko forobanafolo yuruguyuruguli,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au31.wav",
+        "duration": 3.9148299319727893,
+        "text": "a sonyali n’a dunkojuguya bɛ ka dankari jamana ka ɲɛtaa la;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au32.wav",
+        "duration": 9.320997732426305,
+        "text": "Dalen b’a la ko kelenya ni yafaɲɔgɔnma ye wajibi ye jamanadenw ni ɲɔgɔn cɛ,  siya, kan ni seko ni dɔnko bɛɛ ka bonya kɔnɔ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au33.wav",
+        "duration": 6.55578231292517,
+        "text": "Haminen don ni jamana lafasali n’a lakanani ye, jamana hɔrɔnyali tɛ se ka sabati minnu kɔ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au34.wav",
+        "duration": 8.730680272108843,
+        "text": "Tigɛlen don a kan ka faciyɛnw don bala, i n’a fɔ seko ni dɔnkow, laadalafɛnw, laadalakow",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au35.wav",
+        "duration": 4.443015873015873,
+        "text": "ani ka jamana dugukolo sɔrɔfɛnw lakana ka bila bi ni sini mɔgɔw ɲɛ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au37.wav",
+        "duration": 2.7030839002267575,
+        "text": "Jilajalen don ka hadamadenya don bala sigida la;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au38.wav",
+        "duration": 10.6259410430839,
+        "text": "B’a ŋaniya ka dɔ fara jɛmufanga sabatili kan min  sɔrɔla fasojama ka murutili senfɛ, san 1991 marisikalo tile 26",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au39.wav",
+        "duration": 5.375124716553288,
+        "text": "ani ka jamana lakurayali hakililaw don bala, lakurayali min ye jamanadenw nikanko ye ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au40.wav",
+        "duration": 3.510907029478458,
+        "text": "Bɛ layidu ta ka jamana ka yɛrɛmahɔrɔnya lafasa",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au41.wav",
+        "duration": 3.1691383219954647,
+        "text": "ka jamana ka kelenya n’a dugukolo lakanani sabati ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au42.wav",
+        "duration": 5.561541950113378,
+        "text": "Bɛ segin k’a jira ko jamana maracogo ni diinɛw damakɛɲɛni ye,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au43.wav",
+        "duration": 1.5845578231292516,
+        "text": "o y’a haminanko ye ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au44.wav",
+        "duration": 4.287664399092971,
+        "text": "Bɛ layidu ta ka walew boloda minnu bɛ fusiri yuruguyurugu,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au45.wav",
+        "duration": 4.287664399092971,
+        "text": "dunkojuguya ani sonyali la, ka na ni jamana marako ɲuman ye ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au46.wav",
+        "duration": 6.649002267573696,
+        "text": "Bɛ layidu ta ka ɲɛnamaya latɛmɛcogo ɲuman sabati jamana kɔnɔ ani ka sigida n’a lamini lakana;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au47.wav",
+        "duration": 9.787052154195012,
+        "text": "Bɛ Hadamaden ka hakɛw lafasali sariyasɛbɛn lakodɔn, min tara san 1948 desanburukalo tile 10",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au48.wav",
+        "duration": 22.12185941043084,
+        "text": "ani ka Afiriki sariyasɛbɛn talen lakodɔn ka ɲɛsin hadamaden ni fasojamaw ka hakɛw lafasali ma, min tara san 1981, zuwɛnkalo tile 27 ;   Bɛ layidu ta ka Hadamaden ka hakɛ lakana, kɛrɛnkɛrɛnnenya la muso, denmisɛn ani lujuratɔw ka hakɛw,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au50.wav",
+        "duration": 8.637460317460317,
+        "text": "Bɛ layidu ta ka nijuguyawale suguya bɛɛ kɛlɛ ;  Bɛ segin k’a fɔ ko Afiriki ka kelenya sabatili",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au51.wav",
+        "duration": 7.270385487528345,
+        "text": "bɛn ni lafiya sabatili, jɛɲɔgɔnya ni Afiriki ni diɲɛ jamana wɛrɛw ye, fɔɲɔgɔnkɔw banni",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au52.wav",
+        "duration": 9.19671201814059,
+        "text": "sigikafɔ kɔnɔ jamanaw ni ɲɔgɔn cɛ, olu y’a haminankow ye, wa o ko ninnu ka kan ka kɛ sariya ni tilennenya kɔnɔ,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au53.wav",
+        "duration": 11.340566893424036,
+        "text": "fasojamaw ka yɛrɛya n’u ka yɛrɛmahɔrɔnya bonyali kɔnɔ ;  Bɛ sɔn sariyasunba in kɔnɔkow ma, ɲɛbila in ye min fan dɔ ye, u tɛ se ka tigɛ ka bɔ ɲɔgɔn na.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au54.wav",
+        "duration": 8.870997732426304,
+        "text": "",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au55.wav",
+        "duration": 1.24281179138322,
+        "text": "TILAYƆRƆ fͻlͻ:",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au57.wav",
+        "duration": 7.115056689342404,
+        "text": "FASODEN KA HAKƐW N’A KA KƐTAW DAKUN fͻlͻ: FASODEN KA HAKƐW N’A KA HƆRƆNYA",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au58.wav",
+        "duration": 1.7709977324263038,
+        "text": "Sariyasen fɔlͻ:",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au59.wav",
+        "duration": 7.394671201814059,
+        "text": "Maliden bɛɛ dama ka kan hͻrͻnya ni hakɛw ani kɛtaw la. Dankariwale fɛn o fɛn bɛ ta ka mɔgɔ sɛgɛrɛ,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au60.wav",
+        "duration": 15.441814058956917,
+        "text": "k’a sababu kɛ bͻkolo, sigiyͻrͻ, farikolo ɲɛ, siya, kan, cɛya ni musoya, diinɛ walima hakililata ye politikiko siratigɛ la, o kɔnnen don.    Sariyasen 2 nan",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au61.wav",
+        "duration": 12.521224489795918,
+        "text": "Hadamaden ye danfɛn ye, min ni bonya ka kan, dankari man kan ka kɛ a ka mɔgɔya la. Hadamaden bɛɛ ka kan ni ɲɛnamaya, hɔrɔnya, lakana ani danbe sabatili ye.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au62.wav",
+        "duration": 2.423469387755102,
+        "text": "Sariyasen 3 nan:",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au63.wav",
+        "duration": 22.774331065759636,
+        "text": "Jamana bɛ denmisɛnnin lakana k’a kisi hadamadenjago n’o ɲɔgɔnna wale juguw ma ani u tali kojugubakɛ ni dantɛmɛwale tigilamɔgɔw ka jɛkuluw fɛ.  Sariyasen 4 nan: Ɲangata, jɔnya, nijuguyawalew man kan ka ta ka mɔgɔ si sɛgɛrɛ, minnu bɛ se ka dankari a ka ɲɛnamaya la.  Mɔgɔ o mɔgɔ,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au64.wav",
+        "duration": 15.752517006802721,
+        "text": "jamana ka baarakɛla o baarakɛla min mana minɛ nin wale jugu ninnu kɛli la, a y’a kɛ a yɛrɛ ye walima mͻgͻ wɛrɛ ka yamaruya kͻnͻ, o tigilamɔgɔ bɛ ɲangi, i n’a fɔ sariya b’a dantigɛ cogo min.  Sariyasen 5 nan: Mɔgɔ si man kan ka diyogoya ka jamana bila.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au65.wav",
+        "duration": 33.36920634920635,
+        "text": "Mɔgɔ o mɔgɔ ni tɔɔrɔlen don a ka jamana na, k’a sababu kɛ a hakililata ye politikiko siratigɛ la  walima k’a sababu kɛ a ka diinɛko n’a ka siyako ye, Mali jamana bɛ jͻ o tigilamɔgɔ jigi kͻrͻ k’a bisimila.Sariyasen 6 nan: ​​Mɔgɔ o mɔgɔ mana ɲɛmadogo fanga fɛ ɲangilisira fɛ, o tigilamɔgɔ bɛ se ka laɲini kɛ a ɲɛnadɔgɔtɔrɔ k’a lajɛ n’a man kɛnɛ.   Mɔgɔ si tɛ se ka minɛ ka mara fangabon dͻ fɛ ka tɛmɛ lɛrɛ bi naani ni seegin kan, fo ni jamana kiiritigɛla dͻ y’a yamaruya.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au66.wav",
+        "duration": 6.027596371882086,
+        "text": "Mɔgɔ si tɛ se ka don kaso la fo ni jamana kiritigɛla dͻ ye yamaruyasɛbɛn da a kan.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au67.wav",
+        "duration": 2.0506122448979593,
+        "text": "Sariyasen 7 nan:",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au68.wav",
+        "duration": 2.268095238095238,
+        "text": "Kiiritigɛ siratigɛ la",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au69.wav",
+        "duration": 4.225510204081632,
+        "text": "bɛɛ ka kan ka kiiri tilennenya la, waati bɛrɛbɛnnen kɔnɔ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au70.wav",
+        "duration": 7.052902494331065,
+        "text": "A ni lafasali ka kan, wa a ɲɛnalafasabaga sugandili bɛ latigɛ a ye kabini sɛgɛsɛgɛli kun fɔlɔw.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au71.wav",
+        "duration": 8.016077097505669,
+        "text": "Nɔbɔlen bɛɛ ye jotigi ye fɔlɔ, fo n’a kiirila, k’a jɔ a la tuma min na kiiriso yamaruyalen fɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au72.wav",
+        "duration": 9.445283446712018,
+        "text": "Mͻgͻ tɛ ɲangi mͻgͻ nͻ na. Mͻgͻ si tɛ nɔminɛ sariya fɛ, k’a minɛ walima k’a datugu, fo n’o sariya tun talen don ka kͻn a ka ko kɛlenw ɲɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au73.wav",
+        "duration": 1.8331519274376418,
+        "text": "Sariyasen 8 nan:",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au74.wav",
+        "duration": 8.233560090702948,
+        "text": "Sariya ma fɛn o fɛn kͻn, mɔgɔ tɛ se ka bali o kɛli la wa mɔgɔ si tɛ se ka diyagoya ka fɛn kɛ, sariya ma min yamaruya.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au75.wav",
+        "duration": 9.476371882086168,
+        "text": "Sariyasen 9 nan: Furu ni du, olu minnu ye hadamadenya jujɔn ye, olu bɛ lakana, k’u sankͻrͻta jamana fɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au76.wav",
+        "duration": 4.505170068027211,
+        "text": "Furu bɛ siri cɛ ni muso de cɛ.  Sariyasen 10 nan:",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au77.wav",
+        "duration": 1.6156462585034013,
+        "text": "Ladamu ni kalan",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au78.wav",
+        "duration": 2.361337868480726,
+        "text": "baaradege, baara kɛli,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au79.wav",
+        "duration": 3.510907029478458,
+        "text": "siyͻrͻ sɔrɔli, ɲɛnajɛkow sɔrɔli,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au80.wav",
+        "duration": 3.324512471655329,
+        "text": "kɛnɛya sabatili, sigi kɔnɔ lakana,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au81.wav",
+        "duration": 6.8664625850340135,
+        "text": "dumuniko sabatili ani ji ɲuman sͻrͻli, olu ye hakɛw ye minnu lakodɔnnen don.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au82.wav",
+        "duration": 10.750226757369614,
+        "text": "Sariyasen 11  nan: Fasoden bɛɛ ni kalan ka kan. Kalan ye wajibi ye bɛɛ kan, a bɛ kɛ forobakalansow la fu wa diinɛko t’a la",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au83.wav",
+        "duration": 8.637460317460317,
+        "text": "Kɛnyɛrɛyekalansow lakodͻnnen don jamana fɛ, wa u bɛ baara kɛ sariya kɔnɔ.  Sariyasen 12 nan:  Du,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au84.wav",
+        "duration": 3.852675736961451,
+        "text": "tͻgͻlayɔrɔ, tɔgɔlako ni dukɔnɔko,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au85.wav",
+        "duration": 2.23702947845805,
+        "text": "kunkankunnafoniw",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au86.wav",
+        "duration": 7.891791383219955,
+        "text": "gundolabatakiw kɔnɔkow ni gundolakunnafonifalenw kɔnɔkow, dankari man ka kɛ mͻgͻ si ka o dakun ninnu na.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au87.wav",
+        "duration": 8.513197278911564,
+        "text": "N’a ma ɲɛ ko dankari bɛ kɛ u la, fo o k’a sɔrɔ o kɛcogow dantigɛra sariya fɛ.  Sariyasen 13 nan:",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au88.wav",
+        "duration": 10.097755102040816,
+        "text": "Fɛntigiya hakɛ lakananen don sariya fɛ. Mɔgɔ si bolofɛn tɛ se ka minɛ a la fo ni jamana mako sera a ma, ka tila ka ka fɛn sara a kunkͻrͻ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au89.wav",
+        "duration": 1.8331292517006803,
+        "text": "Sariyasen 14 nan:",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au90.wav",
+        "duration": 2.858458049886621,
+        "text": "Mɔgɔ bɛɛ bɛ se k’a hakililata fɔ,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au91.wav",
+        "duration": 4.846916099773242,
+        "text": "k’a hakilijagabɔ, ka diinɛ sugandi, ka bato kɛ,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au92.wav",
+        "duration": 13.888321995464853,
+        "text": "k’a miiriya n’a dasago fɔ, a sago la, kasɔrɔ a ma dankari jamana sariya la.  Sariyasen 15 nan: Kunnafoni dili i sago la ani kunnafoni ɲinini i sago la, olu lakodͻnnen don,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au93.wav",
+        "duration": 1.8020634920634921,
+        "text": "k’u sinsin sariya fɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au94.wav",
+        "duration": 2.9205895691609975,
+        "text": "O waleya ninnu bɛ kɛ jamana sariya hukumu kɔnɔ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au95.wav",
+        "duration": 13.173696145124717,
+        "text": "Sariyasen 16 nan: Seko ni dɔnko baaraw kɛli i sago la, o  lakodͻnnen don, k’u sinsin sariya fɛ. O bɛ kɛ  jamana sariya hukumu kɔnɔ.  Sariyasen 17 nan:",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au96.wav",
+        "duration": 9.227800453514739,
+        "text": "Ka taakaseginw kɛ i fɛrɛ ma jamana kɔnɔ, k’i sigiyͻrͻ sugandi i sago la, ka don i sagolatɔn n’i sagolajɛkulu dɔ la,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au97.wav",
+        "duration": 13.670816326530613,
+        "text": "ka ɲͻgͻnyew kɛ, ka jama labɔ bɔlɔnw kɔnɔ ani ka ŋaniyajirakow sigi senkan i sago la, ninnu bɛɛ lakodͻnnen don, k’u sinsin jamana fɛ, nk’u bɛ kɛ sariya hukumu kͻnͻ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au98.wav",
+        "duration": 1.9263265306122448,
+        "text": "Sariyasen 18 nan:",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au99.wav",
+        "duration": 5.918843537414966,
+        "text": "Baarasɔrɔ ni sɛgɛnnafiɲɛbͻ sɔrɔli hakɛw lakodͻnnen don, wa bɛɛ n’u ka kan.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au100.wav",
+        "duration": 10.73469387755102,
+        "text": "Mɔgɔ si tɛ se ka karaba ka baara dɔ kɛ, fo n’a kɛra forobabaara kɛrɛnkɛrɛnnen dɔ ye, fasojama bɛ  min nafabɔ,  bɛɛ ni min ka kan, wa n’a bɛ kɛ sariya hukumu kɔnɔ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au101.wav",
+        "duration": 7.907324263038549,
+        "text": "Sariyasen 19 nan: Ka baarakɛlaw ka hakɛw lafasalitɔn dɔ sugandi i sago la, o sinsinnen don sariya fɛ",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au102.wav",
+        "duration": 21.20530612244898,
+        "text": "Baarakɛlaw ka lafasalitͻnw bɛ lafasali kɛ u sago la, kasɔrɔ gɛrɛntɛ ma sigi u kan, kasɔrɔ dan ma sigi u ka baaraw la, nk’u b’u ka baara kɛ sariya kͻnͻ.  Sariyasen 20 nan: Baarabila kɛli ye hakɛ ye min makarannen don k’a sinsin sariya fɛ. A bɛ kɛ jamana sariyaw ni bɛnkan sigilenw hukumu kɔnɔ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au103.wav",
+        "duration": 11.961972789115647,
+        "text": "Sariyasen 21 nan: Ka baarakɛyͻrͻ dɔ dayɛlɛ i yɛrɛ ye i sago la, o ye hakɛ ye min makarannen k’a sinsin jamana sariya ni bɛnkan sigilenw fɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au104.wav",
+        "duration": 7.783038548752835,
+        "text": "Sariyasen 22 nan: Mͻgͻ bɛɛ ka kan ni sigida n’a lamini saniyalen ye waati kuntaala jan kͻnͻ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au105.wav",
+        "duration": 4.458571428571428,
+        "text": "DAKUN 2 : FASODEN KA KƐTAW",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au106.wav",
+        "duration": 9.491904761904761,
+        "text": "Sariyasen 23 nan: Fasoden ani mͻgͻ o mɔgɔ sigilen bɛ Mali jamana kan, ka kan ka Mali Sariyasunba bonya ko bɛɛ la.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au107.wav",
+        "duration": 7.052902494331065,
+        "text": "Sariyasen 24 nan: Faso lakanani ye fasoden bɛɛ ka kɛta ye, diyagoya don.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au108.wav",
+        "duration": 10.051156462585034,
+        "text": "Fasoden o fasoden si mana san 18 sͻrͻ, o y’a dɔgɔyalen ye bɛ se ka wele, k’a fara kɛlɛbolow ni lakana tigilamɔgɔw kan, faso lakanani kama.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au109.wav",
+        "duration": 11.014331065759638,
+        "text": "Sariyasen 25 nan: Sigida n’a lamini lakanani ani ɲɛnamaya latɛmɛcogo ɲuman sabatili ye fasoden bɛɛ ni jamana ka kɛta ye.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au110.wav",
+        "duration": 7.65875283446712,
+        "text": "Sariyasen 26 nan: Ni kasara kɛra, jamanaden bɛɛ ka kan ka dɛmɛ don jamana ma, sariya hukumu kɔnɔ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au111.wav",
+        "duration": 10.159909297052154,
+        "text": "Sariyasen 27 nan: Fasoden bɛɛ ka kan k’a ka fasodenɲumanya kɛtaw bɔ u sira fɛ, kɛrɛnkɛrɛnnenya la, lɛnpo ni saalen n’u ɲɔgɔnnaw sarali.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au112.wav",
+        "duration": 10.284172335600907,
+        "text": "Sariyasen 28 nan: Fasoden bɛɛ ka kan k’a ka baara kɛ forobanafa kama, ka forobafɛn bonya ani k’a lakana.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au113.wav",
+        "duration": 14.929160997732426,
+        "text": "Sariyasen 29 nan: Fasoden o fasoden mana bila forobaci dɔ, walima forobabaara dɔ, walima forobacakɛda dɔ ka ci la, o ka kan k’a jͻyͻrͻ fa ni hakili ni tilennenya ani laadiriya ye.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au114.wav",
+        "duration": 2.9890022675736962,
+        "text": "",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au115.wav",
+        "duration": 9.056916099773243,
+        "text": "TILAYƆRƆ 2 : JAMANAYA ANI JAMANA KA YƐRƐMAHƆRƆNYA DAKUN fͻlͻ: JAMANAYA",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au116.wav",
+        "duration": 15.270907029478458,
+        "text": "Sariyasen 30 nan: Mali ye jamana yɛrɛmahɔrɔnyalen ye, kelen don, a tɛ tila, jɛmufanga jamana don, diinɛ bɛɛ dama ka kan a kɔnɔ, hadamadenya jamana fana don.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au117.wav",
+        "duration": 8.761746031746032,
+        "text": "A jɔsen ye, fasojama gɔfɛrɛnaman, min sigira fasojama fɛ, min bɛ baara kɛ fasojama ye.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au118.wav",
+        "duration": 7.76750566893424,
+        "text": "Mali jamana faaba ye Bamakɔ ye. Sariya bɛ se ka ta, ka faaba yɛlɛma jamana fan wɛrɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au119.wav",
+        "duration": 8.016077097505669,
+        "text": "Jamana danbe masiri ye a jͻnjͻn ye, ale ye finikɔnɔ saba damakɛɲɛnen ye jɔjan fɛ",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au120.wav",
+        "duration": 6.55578231292517,
+        "text": "minnu ɲɛ ye, ɲugujiman, sanujiman ani bilenman ye.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au121.wav",
+        "duration": 8.373378684807257,
+        "text": "Jamana danbejɔkan ye: « Fasojama kelen – Kuntilenna kelen – ŋaniya kelen ».",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au122.wav",
+        "duration": 9.880272108843537,
+        "text": "Jamana fasa ye : « Mali » ye.  Sariya bɛ jamana taamasiyɛnw n’a masiriw dantigɛ ani baara bɛ kɛ n’u ye cogoya min.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au123.wav",
+        "duration": 8.295714285714286,
+        "text": "Ko dagabali kɛli ni jamana taamasiyɛnw n’a masiriw ye an’u danbe lagosili, olu bɛ ɲangi sariya fɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au124.wav",
+        "duration": 10.750226757369614,
+        "text": "Sariyasen 31nan: Fasokanw ye jamana marakɛkan ni baarakɛkan yamaruyalenw ye.   Sariya dɔ bɛ ta k’o laɲiniw waleyalicogow dantigɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au125.wav",
+        "duration": 8.699614512471655,
+        "text": "Faransikan fana ye baarakɛkan ye.  Kan o kan mana jamana diya, a bɛ se k’o fana sugandi ka kɛ baarakɛkan ye.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au126.wav",
+        "duration": 17.663310657596373,
+        "text": "Sariyasen 32 nan:   Diinɛw damakɛɲɛni tɛ dankari diinɛ si ani bato si la. A kun ye ɲɔgɔn ŋɛɲɛ kunni ye sigi la min bɛ sinsin ɲɔgɔnmakoto, kumaɲɔgɔnya ani ɲɔgɔnfaamuya kan.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au127.wav",
+        "duration": 13.173696145124717,
+        "text": "Jamana bɛ diinɛ ni bato bɛɛ bonyali makaran k’a sinsin. Diinɛ dɔ sugandili ani i ka diinɛ waleyali i sago la, olu fana b’o cogo la, jamana sariya bonyali hukumu kɔnɔ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au128.wav",
+        "duration": 15.208775510204081,
+        "text": "Sariyasen 33 nan: Maayajamana sigilen bɛ ɲɔgɔndɛmɛ, kelenya, tilennenya, lakana ani kalaɲͻgͻnna jɔsenw kan. Jamana bɛ fεεrε jɔnjɔnw tigɛ walasa k’o waleya.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au129.wav",
+        "duration": 13.360113378684808,
+        "text": "Sariyasen 34 nan: Forobawale sinsinnen bɛ laɲini jɔnjɔn dɔw kan, jamana ka yɛrɛmahɔrɔnya bonyali, fasojama yɛrɛmahɔrɔn laɲiniw bonyali an’a ka nafaw lafasali.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au130.wav",
+        "duration": 10.73469387755102,
+        "text": "Sariyasen 35 nan: Forobafanga tigilamɔgɔ si tɛ se k’a sinsin a jͻyͻrͻ kan, Sariyasunba walima sariya wɛrɛ ye min kalifa a la,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au131.wav",
+        "duration": 21.54705215419501,
+        "text": "ka jamana nafolo walima ka forobafɛn dɔ ŋanamu, k’u kɛ a yɛrɛ ta ye walima k’u di fanga tigilamɔgɔ dɔw n’u ka denbayaw ma, k’u di jɛkuluw walima mͻgͻ suguya wɛrɛw ma, k’a sababu kɛ fisamanciya, yuruguyurugu, ŋanamuŋanamu, mɔgɔfɛmɔgɔya, walima fɛɛrɛ jugu wɛrɛw ye, fo ɲangiliw ka bin a kan.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au132.wav",
+        "duration": 4.536235827664399,
+        "text": "Sariyasen 36 nan: Jamana fangabulonw ye :",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au133.wav",
+        "duration": 1.584580498866213,
+        "text": "Jamanakuntigi ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/au134.wav",
+        "duration": 1.6156462585034013,
+        "text": "Gɔfɛrɛnaman ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU135.wav",
+        "duration": 1.6777777777777778,
+        "text": "Sariyatabulonba ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU136.wav",
+        "duration": 1.8331292517006803,
+        "text": "Kiiritigɛbulonba ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU137.wav",
+        "duration": 2.4856009070294784,
+        "text": "Sariyasunba labatolibulon ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU138.wav",
+        "duration": 2.2370521541950112,
+        "text": "Forobanafoloko kiiribulon ;",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU139.wav",
+        "duration": 5.747959183673469,
+        "text": "Jamana sͻrͻko, hadamadenyako, sigida n’a laminiko ani seko ni dͻnko bulonba.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU140.wav",
+        "duration": 3.930362811791383,
+        "text": "DAKUN 2 : JAMANA KA YƐRƐMAHƆRƆNYA",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU141.wav",
+        "duration": 9.025850340136055,
+        "text": "Sariyasen 37 nan: Jamana ka yɛrɛmahɔrɔnya bɛ fasojama bolo, a b’a waleya n’a nɔnabilaw ye,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU142.wav",
+        "duration": 6.928616780045352,
+        "text": "minnu sigira forobakalata kunkelenma walima forobakalata kunfilama senfɛ walima jama hakililaɲinikalata senfɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU143.wav",
+        "duration": 6.369365079365079,
+        "text": "Jamakulu yeleke si ani mͻgͻ kelen si tɛ se ka yɛrɛmahɔrɔnyawalew kɛ fasojama nͻ na.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU144.wav",
+        "duration": 5.111020408163266,
+        "text": "Sariyasen 38 nan: Kalata bɛ kɛ jamanaden bɛɛ fɛ,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU145.wav",
+        "duration": 2.159365079365079,
+        "text": "damakɛɲɛni ni gundo la.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU146.wav",
+        "duration": 4.008027210884354,
+        "text": "A bɛ se ka kɛ forobakalata kunkelenma walima kunfilama ye.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU147.wav",
+        "duration": 10.905578231292518,
+        "text": "I n’a fɔ sariya b’a dantigɛ cogo min, kalatalaw ye jamanaden cɛmanw ni musomanw ye minnu si sera kalata ma, n’u ka fasodenya ni ka politikibaara hakɛw dafalen don.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU148.wav",
+        "duration": 11.433786848072563,
+        "text": "Sariyasen 39 nan: Politikitɔnw bɛ fanga ɲini. U b’u labɛn, k’u ka baaraw kɛ u sago la, i n’a fɔ sariya b’a dantigɛ cogo min.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU149.wav",
+        "duration": 9.693854875283447,
+        "text": "U ka kan ka jamana ka yɛrɛmahͻrͻnya, a ka jɛmufanga, jamana lakanani n’a ka kelenya ani diinɛw damakɛɲɛni jamana kͻnͻ jɔsenw bonya.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU150.wav",
+        "duration": 7.208231292517007,
+        "text": "Sariyasen 40 nan: Jɛmufanga sabatili hukumu kɔnɔ ni fasojama mumɛ sendonni ye a baaraw la,",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU151.wav",
+        "duration": 5.42172335600907,
+        "text": "jɛrɛjɛkuluw b’u ka janto-ko-la baaraw kɛ, i n’a fɔ sariya b’a dantigɛ cogo min.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU152.wav",
+        "duration": 13.018344671201815,
+        "text": "Sariyasen 41 nan: Jamana b’a ka yɛrɛmahɔrɔnya boli jamana dugukolo fan bɛɛ.  Jamana tɛ diɲɛ a ka dugukolo fan si kͻ, kuma tɛ k’a kɔdon a ka yɛrɛmahͻrͻnya hakɛw  la o yͻrͻ ninnu na",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU153.wav",
+        "duration": 9.771519274376418,
+        "text": "Dankarili fɛn o fɛn mana kɛ jamana dugukolo fan dɔ la, o bɛ jate i n’a fɔ dankarila jamana ka lakana na.  Sariyasen 42nan",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU154.wav",
+        "duration": 4.427482993197279,
+        "text": "Jamana sago b’a ka nafolomafɛnw n’a ka dugukolo sɔrɔfɛnw bɛɛ la.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU155.wav",
+        "duration": 8.730680272108843,
+        "text": "O nafolomafɛnw n’o dugukolo sɔrɔfɛnw nafabbͻli bɛ kɛ sigida n’a lamini lakanani sariya kͻnͻ, mɔgɔw ka nafa kama bi ni don nataw la.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU157.wav",
+        "duration": 7.208253968253969,
+        "text": "TILAYƆRƆ 3 : WALEYALIFANGA DAKUN fͻlͻ :  JAMANAKUNTIGIYA",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU158.wav",
+        "duration": 9.383151927437641,
+        "text": "Sariyasen 43 nan: Jamanakuntigi ye jamana ɲɛmaa ye. Ale de ye sariyasunba kͻlͻsibaga ye. Jamana ka kelenya tigiya b’a bolo.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU160.wav",
+        "duration": 6.835396825396826,
+        "text": "A b’a janto forobafanga lataamacogo ɲuman na ani jamana ka jamanaya lasabati.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU162.wav",
+        "duration": 16.746757369614514,
+        "text": "Sariyasen 44 nan: Jamanakuntigi bɛ jamana politiki taabolo dantigɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU162.wav",
+        "duration": 16.746757369614514,
+        "text": "Sariyasen 45 nan: Forobakalata kunkelenma bɛ labɛn ka jamanakuntigi sigi, a ka fanga kuntaala ye san duuru ye. A bɛ se k’a kanbɔ fanga nɔfɛ kokura siɲɛ kelen.  Cogoya si la, jamankuntigiya sarati tɛ se ka tɛmɛ siɲɛ fila kan ka tugu ɲɔgɔn na.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU163.wav",
+        "duration": 9.70938775510204,
+        "text": "Sariyasen 46  nan: Jamanakuntigiya ɲinibaga ka kan ka kɛ maliden lakika ye, wa jamana wɛrɛ jamanadenyasɛbɛn kana kɛ a bolo fana",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU164.wav",
+        "duration": 12.210521541950113,
+        "text": "a ka jɔyɔrɔɲinisɛbɛnw bilatuma.    A ka kɛ mɔgɔ ye fasodenya ni politikibaara saratiw dafalen bɛ min na, ka kɛ jogoɲumantigi ani mɔgɔ laadiriba ye.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU165.wav",
+        "duration": 16.762290249433107,
+        "text": "A si ka kan k’a ta san 35 la, a dɔgɔyalen, ka taa a bila san 75, a cayalen, jɔyɔrɔɲinisɛbɛnw bilatuma, wa a ka kɛ mͻgͻ ye jamanamara se bɛ min ye, a hakili la an’a farikolo la.  Sariyasen 47 nan:",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU166.wav",
+        "duration": 12.30374149659864,
+        "text": "Jamanakuntigi kura bɛ sugandi kalata senfɛ tile bi naani ni duuru a dɔgɔyalenba ani tile bi wɔɔrɔ a cayalenba, ka kɔn jamanakuntigi kͻrͻ ka fanga banni ɲɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU167.wav",
+        "duration": 7.2859410430839,
+        "text": "Sariyasen 48 nan: Jamanakuntigi bɛ sugandi ni kalatajama fanba lakika ka kala ye.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU168.wav",
+        "duration": 10.6259410430839,
+        "text": "N'o ma sɔrɔ kala tako fɔlɔ la, tako filanan bɛ labɛn dͻgͻkun saba kɔnɔ kala tako fͻlͻ jaabiw dilen kͻ, sariyasunba labatolibulon fɛ.",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU169.wav",
+        "duration": 13.033877551020408,
+        "text": "Tile wolonwula yanni kala tako fɔlɔ don cɛ, ni jɔyɔrɔɲinina dͻ fatura walima ko dͻ y’a bali, jamana Sariyasunba labatolibulon bɛ se ka kalata don bͻ a dͻgͻkͻrͻ k’a bila don wɛrɛ la",
+        "score": 0.0
+    },
+    {
+        "audio_filepath": "audios/AU170.wav",
+        "duration": 9.911337868480725,
+        "text": "nka o kuntaala kana tɛmɛ tile tan ni duuru kan.  Jɔyɔrɔɲinina fila minnu ka kala cayara ni tͻw ta ye kala tako fɔlɔ la, kalata filanan bɛ kɛ olu ni ɲɔgɔn cɛ.",
+        "score": 0.0
+    }
+]
